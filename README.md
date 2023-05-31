@@ -25,14 +25,14 @@ What if all these requirements of typical IoT project comprises in one device? T
   
 The Oplà IoT Kit allows you to add connectivity to devices around the home or workplace. It comes complete with a set of 8 Internet of Things self assemble projects ready to show you how to turn everyday appliances into ‘smart appliances’ and build custom connected devices that can be controlled with your mobile phone.
 
-    Remote Controlled Lights - change color, light modes and switch on/off via your mobile
-    Personal Weather Station - record and monitor local weather conditions
-    Home Security Alarm - Detect motions and trigger warnings
-    Solar System Tracker - retrieve data from planets and moons in the Solar System
-    Inventory Control - track goods in & out
-    Smart Garden - monitor and control the environment for your plants
-    Thermostat Control - smart control for heating and cooling systems
-    Thinking About You - send messages between the Oplà and the Arduino IoT Cloud
+- Remote Controlled Lights - change color, light modes and switch on/off via your mobile
+- Personal Weather Station - record and monitor local weather conditions
+- Home Security Alarm - Detect motions and trigger warnings
+- Solar System Tracker - retrieve data from planets and moons in the Solar System
+- Inventory Control - track goods in & out
+- Smart Garden - monitor and control the environment for your plants
+- Thermostat Control - smart control for heating and cooling systems
+- Thinking About You - send messages between the Oplà and the Arduino IoT Cloud  
 
 
 This tutorial / Device Overview is about **Arduino Oplà IoT Kit**. We've discussed..  
@@ -52,15 +52,15 @@ This tutorial / Device Overview is about **Arduino Oplà IoT Kit**. We've discus
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
  
-🌐 Website - 🔗 https://opla.arduino.cc/ 
+🌐 Website - 🔗 https://opla.arduino.cc/  
 📜 Wiki page - 
 
-📌 ▶️ [DIY Project]  - 🔗 https://youtu.be/
-📌 ▶️ [Device Overview] - 🔗 https://youtu.be 
+📌 ▶️ [DIY Project]  - 🔗 https://youtu.be/  
+📌 ▶️ [Device Overview] - 🔗 https://youtu.be   
 
 🔴 Purchase Links -  
 
-🌐 Product page - 🔗 https://store.arduino.cc/products/arduino-opla-iot-kit 
+🌐 Product page - 🔗 https://store.arduino.cc/products/arduino-opla-iot-kit  
 🛒 Wio-E5 Dev Kit  -  🔗 https://store.arduino.cc/products/arduino-opla-iot-kit  
 
 
