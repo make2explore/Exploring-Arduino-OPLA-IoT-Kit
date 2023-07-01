@@ -55,7 +55,7 @@ This tutorial / Device Overview is about **Arduino Oplà IoT Kit**. We've discus
 🌐 Arduino Website - 🔗 https://www.arduino.cc/  
 📙 Arduino OPLA IoT Kit 🔗 https://opla.arduino.cc/  
 📘 Arduino IoT Cloud 🔗 https://cloud.arduino.cc/  
-📗 Arduino Create Agent  🔗 https://support.arduino.cc/hc/en-us/articles/  360014869820-Install-the-Arduino-Create-Agent  
+📗 Arduino Create Agent  🔗 https://support.arduino.cc/hc/en-us/articles/360014869820-Install-the-Arduino-Create-Agent  
 📒 Arduino Create agent installation page 🔗 https://create.arduino.cc/getting-started/plugin/welcome  
 
 💡 Introduction to Arduino IoT Cloud ▶️ https://youtu.be/khxzE7lxrPA  
