@@ -39,36 +39,33 @@ This tutorial / Device Overview is about **Arduino Oplà IoT Kit**. We've discus
 - **What Arduino Oplà IoT Kit** - Basic Introduction. 
 - **Information about Arduino Oplà IoT Kit** - Features, Specifications, Datasheets, Etc.  
 - **Assembly of Arduino Oplà IoT Kit** - 
-- **DIY Project** - Thermostat System
-- **Demo of the DIY Project**  - Block Diagram, Circuit Diagram, Souurce Code Explanations and Demonstration  
+- **DIY Project** - Carrier Board Capability
+- **Demo of the DIY Project**  
 
 
 ------------------------------------------------------------------------------------------------------
 
 📕 **YouTube Video Links**  
 
-▶️ [Device Overview] Arduino Oplà IoT Kit   - 🔗 https://youtu.be/
+▶️ [Device Overview] Arduino Oplà IoT Kit   - 🔗 https://youtu.be/EsufhL-IDQ0  
 
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
  
-🌐 Website - 🔗 https://opla.arduino.cc/  
-📜 Wiki page - 
+🌐 Arduino Website - 🔗 https://www.arduino.cc/  
+📙 Arduino OPLA IoT Kit 🔗 https://opla.arduino.cc/  
+📘 Arduino IoT Cloud 🔗 https://cloud.arduino.cc/  
+📗 Arduino Create Agent  🔗 https://support.arduino.cc/hc/en-us/articles/  360014869820-Install-the-Arduino-Create-Agent  
+📒 Arduino Create agent installation page 🔗 https://create.arduino.cc/getting-started/plugin/welcome  
 
-📌 ▶️ [DIY Project]  - 🔗 https://youtu.be/  
-📌 ▶️ [Device Overview] - 🔗 https://youtu.be   
-
-🔴 Purchase Links -  
-
-🌐 Product page - 🔗 https://store.arduino.cc/products/arduino-opla-iot-kit  
-🛒 Wio-E5 Dev Kit  -  🔗 https://store.arduino.cc/products/arduino-opla-iot-kit  
+💡 Introduction to Arduino IoT Cloud ▶️ https://youtu.be/khxzE7lxrPA  
 
 
-📜 Source Code, Circuit Diagrams and Documentation : 
+📜 **Source Code, Circuit Diagrams and Documentation** : 
 
-🌐 GitHub Repository - 🔗 https://github.com/make2explore/Exploring-Arduino-OPLA-IoT-Kit
+🌐 GitHub Repository - 🔗 https://github.com/make2explore/Exploring-Arduino-OPLA-IoT-Kit  
   
-🌐 Hackster Blog - 🔗 https://www.hackster.io/make2explore/ 
+🌐 Hackster Blog - 🔗 https://www.hackster.io/make2explore/  
   
 🌐 Instructable Blog - 🔗 https://www.instructables.com/  
 
@@ -86,7 +83,7 @@ This tutorial / Device Overview is about **Arduino Oplà IoT Kit**. We've discus
 
 📕 **YouTube Video Links**  
 
-▶️ [DIY Project]  - 🔗 https://youtu.be/
+▶️ [DIY Project]  - 🔗 https://youtu.be/khxzE7lxrPA  
 
 ------------------------------------------------------------------------------------------  
 
