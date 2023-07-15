@@ -48,6 +48,8 @@ This tutorial / Device Overview is about **Arduino Oplà IoT Kit**. We've discus
 📕 **YouTube Video Links**  
 
 ▶️ [Device Overview] Arduino Oplà IoT Kit   - 🔗 https://youtu.be/EsufhL-IDQ0  
+  
+💡  Introduction to Arduino IoT Cloud ▶️ https://youtu.be/khxzE7lxrPA  
 
 -------------------------------------------------------------------------------------------------------
   
